@@ -4,9 +4,9 @@ Sequence containers implement data structures which can be accessed sequentially
 
 | Container | Data structure |
 |-----------|----------------|
-|array||
-|vector||
-|deque||
+|array|static contiguous array|
+|vector|dynamic contiguous array|
+|deque|sequence of individually allocated fixed-size arrays|
 |forward_list||
 |list||
 
