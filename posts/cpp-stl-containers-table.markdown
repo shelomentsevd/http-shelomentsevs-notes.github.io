@@ -15,10 +15,10 @@ Associative containers implement sorted data structures that can be quickly sear
 
 | Container | Data structure |
 |-----------|----------------|
-|set||
-|map||
-|multiset||
-|multimap||
+|set|red-black tree|
+|map|red-black tree|
+|multiset|red-black tree|
+|multimap|red-black tree|
 
 ## Unordered associative containers
 Unordered associative containers implement unsorted (hashed) data structures that can be quickly searched (O(1) amortized, O(n) worst-case complexity). 
