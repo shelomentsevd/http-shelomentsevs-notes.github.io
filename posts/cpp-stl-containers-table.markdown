@@ -25,8 +25,8 @@ Unordered associative containers implement unsorted (hashed) data structures tha
 
 | Container | Data structure |
 |-----------|----------------|
-|unordered_set||
-|unordered_map||
+|unordered_set|hash table|
+|unordered_map|hash table|
 |unordered_multiset||
 |unordered_multimap||
 
