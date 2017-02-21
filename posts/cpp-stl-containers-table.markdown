@@ -7,8 +7,8 @@ Sequence containers implement data structures which can be accessed sequentially
 |array|static contiguous array|
 |vector|dynamic contiguous array|
 |deque|sequence of individually allocated fixed-size arrays|
-|forward_list||
-|list||
+|forward_list|single-linked list|
+|list|double-linked list|
 
 ## Associative containers
 Associative containers implement sorted data structures that can be quickly searched (O(log n) complexity). 
